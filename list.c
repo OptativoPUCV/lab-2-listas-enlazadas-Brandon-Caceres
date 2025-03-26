@@ -40,10 +40,19 @@ void * firstList(List * list) {
     if(list == NULL || list->head == NULL){
         return NULL;
     }
-    return list->head->data++;
+    list->current = list->head;
+    return list->head->data;
 }
 
 void * nextList(List * list) {
+    if(list == NULL || list->head == NULL){
+        return NULL;
+    }
+    list->current = list->current->next;
+
+    if (list->current != NULL){
+        return list->current->data;
+    }
     return NULL;
 }
 

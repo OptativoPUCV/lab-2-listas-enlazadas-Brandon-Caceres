@@ -128,3 +128,9 @@ ju., 27 de mar. de 2025 20:12:07:
  tests:  6|4
 total_score: 25/70
 a60740a
+ju., 27 de mar. de 2025 20:18:37: 
+ list.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  5|4
+total_score: 25/70
+e08a9fd

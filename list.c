@@ -45,9 +45,7 @@ void * firstList(List * list) {
 }
 
 void * nextList(List * list) {
-    if(list == NULL || list->current == NULL){
-        return NULL;
-    }
+    if(list == NULL || list->current == NULL) return NULL;
     list->current = list->current->next;
 
     if (list->current != NULL){
@@ -57,22 +55,20 @@ void * nextList(List * list) {
 }
 
 void * lastList(List * list) {
-    if (list == NULL || list->head == NULL)
-        return NULL;
+    if (list == NULL || list->head == NULL) return NULL;
     list->current = list->tail;
     return list->current->data;
 }
 
 void * prevList(List * list) {
-    if(list == NULL || list->current == NULL){
-        return NULL;
-    }
+    if(list == NULL || list->current == NULL) return NULL;
     list->current = list->current->prev;
     if (list->current == NULL) return NULL;
     return list->current->data;
 }
 
 void pushFront(List * list, void * data) {
+    
 }
 
 void pushBack(List * list, void * data) {

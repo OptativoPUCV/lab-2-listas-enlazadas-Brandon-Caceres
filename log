@@ -57,3 +57,9 @@ Wed, Mar 26, 2025  9:26:18 AM:
  tests:  5|4
 total_score: 25/70
 ba4c1a9
+mi., 26 de mar. de 2025 21:24:53: 
+ list.c | 6 ++++++
+ 1 file changed, 6 insertions(+)
+ tests:  5|4
+total_score: 25/70
+c20324c

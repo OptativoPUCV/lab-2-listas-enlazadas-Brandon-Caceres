@@ -140,3 +140,8 @@ ju., 27 de mar. de 2025 20:50:48:
  tests:  6|4
 total_score: 25/70
 3c06776
+ju., 27 de mar. de 2025 20:52:11: 
+ list.c | 4 ++++
+ 1 file changed, 4 insertions(+)
+ tests:  0|0
+8a04946

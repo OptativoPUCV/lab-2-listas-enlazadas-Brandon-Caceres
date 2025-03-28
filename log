@@ -227,3 +227,9 @@ ju., 27 de mar. de 2025 21:10:18:
  tests:  10|2
 total_score: 45/70
 db0b380
+ju., 27 de mar. de 2025 21:10:35: 
+ list.c | 1 -
+ 1 file changed, 1 deletion(-)
+ tests:  10|2
+total_score: 45/70
+ceeb215

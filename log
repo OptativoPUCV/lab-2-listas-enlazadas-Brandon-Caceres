@@ -197,3 +197,9 @@ list.c:70:6: note: declared here
 cc1.exe: all warnings being treated as errors
 Compilation failed
 93802c0
+ju., 27 de mar. de 2025 21:05:37: 
+ list.c | 9 ++++++---
+ 1 file changed, 6 insertions(+), 3 deletions(-)
+ tests:  9|0
+   [ INFO ] Insertando 75 a la lista (pushfront)
+b0632da

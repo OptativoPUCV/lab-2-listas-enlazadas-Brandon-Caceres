@@ -203,3 +203,9 @@ ju., 27 de mar. de 2025 21:05:37:
  tests:  9|0
    [ INFO ] Insertando 75 a la lista (pushfront)
 b0632da
+ju., 27 de mar. de 2025 21:06:48: 
+ list.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  10|2
+total_score: 45/70
+64c82d5

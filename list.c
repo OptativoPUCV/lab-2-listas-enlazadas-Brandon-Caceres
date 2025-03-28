@@ -110,7 +110,8 @@ void * popBack(List * list) {
     return popCurrent(list);
 }
 
-void * popCurrent(List * list) {
+void * popCurrent(List * list) {\
+    if (list == NULL || list->current == NULL) return NULL;
     if (list->current == list->head){
         list->current->next->prev = NULL;
     }

@@ -163,3 +163,9 @@ ju., 27 de mar. de 2025 21:00:01:
  tests:  9|3
 total_score: 35/70
 3be59cb
+ju., 27 de mar. de 2025 21:01:05: 
+ list.c | 1 +
+ 1 file changed, 1 insertion(+)
+ tests:  9|0
+   [ INFO ] Insertando 87 a la lista (pushfront)
+3218d55

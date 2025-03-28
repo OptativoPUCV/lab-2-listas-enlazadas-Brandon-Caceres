@@ -233,3 +233,8 @@ ju., 27 de mar. de 2025 21:10:35:
  tests:  10|2
 total_score: 45/70
 ceeb215
+ju., 27 de mar. de 2025 21:22:22: 
+ list.c | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
+ tests:  0|0
+b62ea5a

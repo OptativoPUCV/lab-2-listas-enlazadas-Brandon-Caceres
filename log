@@ -157,3 +157,9 @@ ju., 27 de mar. de 2025 20:55:14:
  tests:  9|3
 total_score: 35/70
 31f4340
+ju., 27 de mar. de 2025 21:00:01: 
+ list.c | 9 ++++++++-
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+ tests:  9|3
+total_score: 35/70
+3be59cb
